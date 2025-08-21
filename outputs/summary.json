@@ -1,0 +1,10 @@
+{
+  "optimizer": "greedy",
+  "budget": 4150000,
+  "total_assets": 200,
+  "selected_assets": 123,
+  "total_cost_selected": 4147649.719527462,
+  "total_risk": 2591307.621586993,
+  "selected_risk": 2286800.427291999,
+  "risk_reduction": 2286800.427291999
+}

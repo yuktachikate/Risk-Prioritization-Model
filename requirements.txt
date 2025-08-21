@@ -1,0 +1,8 @@
+pandas>=2.2.2
+numpy>=1.26.4
+plotly>=5.22.0
+streamlit>=1.36.0
+pydeck>=0.9.1
+PyYAML>=6.0.2
+pulp>=2.8.0
+python-dotenv>=1.0.1
